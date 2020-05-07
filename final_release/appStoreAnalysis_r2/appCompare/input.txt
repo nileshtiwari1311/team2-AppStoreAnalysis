@@ -1,0 +1,95 @@
+[
+  {
+    title: 'Facebook',
+    description: 'Keeping up with friends is faster and easier than ever. Share updates and photos, engage with friends and Pages, and stay connected to communities important to you. \r\n' +
+      '\r\n' +
+      'Features on the Facebook app include:\r\n' +
+      '\r\n' +
+      '* Connect with friends and family and meet new people on your social media network\r\n' +
+      '* Set status updates & use Facebook emoji to help relay what’s going on in your world\r\n' +
+      '* Share photos, videos, and your favorite memories.\r\n' +
+      '* Get notifications when friends like and comment on your posts\r\n' +
+      '* Find local social events, and make plans to meet up with friends\r\n' +
+      '* Play games with any of your Facebook friends\r\n' +
+      '* Backup photos by saving them in albums\r\n' +
+      '* Follow your favorite artists, websites, and companies to get their latest news\r\n' +
+      '* Look up local businesses to see reviews, operation hours, and pictures\r\n' +
+      '* Buy and sell locally on Facebook Marketplace\r\n' +
+      '* Watch live videos on the go\r\n' +
+      '\r\n' +
+      '\r\n' +
+      "The Facebook app does more than help you stay connected with your friends and interests. It's also your personal organizer for storing, saving and sharing photos. It's easy to share photos straight from your Android camera, and you have full control over your photos and privacy settings. You can choose when to keep individual photos private or even set up a secret photo album to control who sees it.\r\n" +
+      '\r\n' +
+      'Facebook also helps you keep up with the latest news and current events around the world. Subscribe to your favorite celebrities, brands, news sources, artists, or sports teams to follow their newsfeeds, watch live streaming videos and be caught up on the latest happenings no matter where you are!\r\n' +
+      '\r\n' +
+      'The most important desktop features of Facebook are also available on the app, such as writing on timelines, liking photos, browsing for people, and editing your profile and groups. \r\n' +
+      '\r\n' +
+      'Now you can get early access to the next version of Facebook for Android by becoming a beta tester. Learn how to sign up, give feedback and leave the program in our Help Center: http://on.fb.me/133NwuP \r\n' +
+      '\r\n' +
+      'Sign up directly here: \r\n' +
+      'http://play.google.com/apps/testing/com.facebook.katana\r\n' +
+      '\r\n' +
+      'Problems downloading or installing the app? See http://bit.ly/GPDownload1\r\n' +
+      'Still need help? Please tell us more about the issue. http://bit.ly/invalidpackage\r\n' +
+      '\r\n' +
+      'Facebook is only available for users age 13 and over.\r\n' +
+      'Terms of Service: http://m.facebook.com/terms.php.',
+    descriptionHTML: 'Keeping up with friends is faster and easier than ever. Share updates and photos, engage with friends and Pages, and stay connected to communities important to you. <br><br>Features on the Facebook app include:<br><br>* Connect with friends and family and meet new people on your social media network<br>* Set status updates &amp; use Facebook emoji to help relay what’s going on in your world<br>* Share photos, videos, and your favorite memories.<br>* Get notifications when friends like and comment on your posts<br>* Find local social events, and make plans to meet up with friends<br>* Play games with any of your Facebook friends<br>* Backup photos by saving them in albums<br>* Follow your favorite artists, websites, and companies to get their latest news<br>* Look up local businesses to see reviews, operation hours, and pictures<br>* Buy and sell locally on Facebook Marketplace<br>* Watch live videos on the go<br><br><br>The Facebook app does more than help you stay connected with your friends and interests. It&#39;s also your personal organizer for storing, saving and sharing photos. It&#39;s easy to share photos straight from your Android camera, and you have full control over your photos and privacy settings. You can choose when to keep individual photos private or even set up a secret photo album to control who sees it.<br><br>Facebook also helps you keep up with the latest news and current events around the world. Subscribe to your favorite celebrities, brands, news sources, artists, or sports teams to follow their newsfeeds, watch live streaming videos and be caught up on the latest happenings no matter where you are!<br><br>The most important desktop features of Facebook are also available on the app, such as writing on timelines, liking photos, browsing for people, and editing your profile and groups. <br><br>Now you can get early access to the next version of Facebook for Android by becoming a beta tester. Learn how to sign up, give feedback and leave the program in our Help Center: http://on.fb.me/133NwuP <br><br>Sign up directly here: <br>http://play.google.com/apps/testing/com.facebook.katana<br><br>Problems downloading or installing the app? See http://bit.ly/GPDownload1<br>Still need help? Please tell us more about the issue. http://bit.ly/invalidpackage<br><br>Facebook is only available for users age 13 and over.<br>Terms of Service: http://m.facebook.com/terms.php.',
+    summary: 'Find friends, watch live videos, play games &amp; save photos in your social network',
+    installs: '5,000,000,000+',
+    minInstalls: 5000000000,
+    score: 4.2618494,
+    scoreText: '4.3',
+    ratings: 98636645,
+    reviews: 28423194,
+    histogram: {
+      '1': 10168183,
+      '2': 3136277,
+      '3': 6082714,
+      '4': 10561740,
+      '5': 68687728
+    },
+    price: 0,
+    free: true,
+    currency: 'USD',
+    priceText: 'Free',
+    offersIAP: true,
+    IAPRange: '₹65.00 - ₹26,000.00 per item',
+    size: 'Varies with device',
+    androidVersion: 'VARY',
+    androidVersionText: 'Varies with device',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    developerEmail: 'android-support@fb.com',
+    developerWebsite: 'https://www.facebook.com/facebook',
+    developerAddress: '1 Hacker Way\nMenlo Park, CA 94025',
+    privacyPolicy: 'https://www.facebook.com/about/privacy/',
+    developerInternalID: '5629993546372213086',
+    genre: 'Social',
+    genreId: 'SOCIAL',
+    familyGenre: undefined,
+    familyGenreId: undefined,
+    icon: 'https://lh3.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg',
+    headerImage: 'https://lh3.googleusercontent.com/9s-9zONYk4NZvLlHVMIF5cGCzrx7PjZYQ3uow5P8Rj2Mt_XHWygV3gOt75_iI1YtTg',
+    screenshots: [
+      'https://lh3.googleusercontent.com/JelCBr0rDjDEGOqYb4m2Z7OSVBxS5KyqO94eW5TGnQtHc9k08uaMZVTz6s_rKha31eE',
+      'https://lh3.googleusercontent.com/Iomoub5EHkAk1_bKqIyjkFbKQ4vw-zFfTqfUMG_da-4-hV_tXwvuiFQUQWIeol_fRSo',
+      'https://lh3.googleusercontent.com/Jx0nPnGaGNRXCHlmGv13gDsIzhLykgkza5y2SUNruZoiwcik5lQ-gj99vdHZA0Zlbtrz',
+      'https://lh3.googleusercontent.com/YBTVMqZcl-t16dnH7_DxHsMm7WU2v2HdZRX3Q3UnYHXo8HUfQSuN2Ahn_M4KQunbeigu',
+      'https://lh3.googleusercontent.com/o4enSNrWkR4F6wILxPk6-6XkNyea4j9tcn8gLPphbBvhpp4_HBU9NNuQnhzreYH5uSN0'
+    ],
+    video: undefined,
+    videoImage: undefined,
+    contentRating: 'Rated for 12+',
+    contentRatingDescription: 'Parental Guidance Recommended',
+    adSupported: true,
+    released: undefined,
+    updated: 1588261856000,
+    version: '268.1.0.54.121',
+    recentChanges: undefined,
+    comments: [],
+    editorsChoice: false,
+    appId: 'com.facebook.katana',
+    url: 'https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=in'
+  }
+]

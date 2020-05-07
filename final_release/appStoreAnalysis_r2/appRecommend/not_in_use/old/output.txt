@@ -1,0 +1,12 @@
+com.hotstar.gpay
+cn.liaobo.lq
+com.amazon.avod.thirdpartyclient
+com.mambet.tv
+lyricalvideostatusmaker.videostatusmaker.videostatus.lyrically.lyrical.ly.lyricalphotostatus.lyrical
+com.kwai.global.video.social.kwaigo
+com.jio.media.ondemand
+in.startv.hotstar
+tv.accedo.airtel.wynk
+com.ryzmedia.tatasky
+com.suntv.sunnxt
+com.graymatrix.did

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>It will work bro </title>
+	<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+	<meta content="utf-8" http-equiv="encoding">
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
+	<!-- <script type="text/javascript" src="kaali.json"></script> -->
+
+</head>
+<body>
+
+	<!-- <h2 id="display"></h2> -->
+	<textarea id="display" style="width:1000px;height:1000px"></textarea>
+	<!-- <script type="text/javascript" src="put.js"></script> -->
+	<script type="text/javascript">
+
+		// const fs = require('fs') 
+		// fs.readFile('kaali.json', 'utf-8', (err, data) => { 
+	 //    if (err) throw err; 
+
+	 //  	var myObject = JSON.parse(data);
+	 //  	console.log(myObject[1]);
+	 //  	var parsed = "";
+		// for (i = 0; i< myObject.length; i++) 
+		// {
+	 //        var myobj=  myObject[i];
+	 //        for (var property in myobj) 
+	 //        {
+	 //            parsed += property + ": " + myobj[property] + "\n";          
+	 //        }
+	                
+	 //    }
+	 var alu ="";
+	 	$.getJSON("kaali.json", function(json) {
+    		//alert(json); // this will show the info it in firebug console
+    		// console.log(json);
+    		alu=json;
+    		$("#display").val(alu);
+    		for (var nilu in json)
+    		{
+    			//console.log(json[nilu]);
+    			if(json[nilu]["score"]>4)
+    			{
+    				console.log(json[nilu]['appId']);
+    			}
+    		}
+		});
+
+	 	var parsed = "This is Abhishek Kaushik Sharma, Hi there ";
+	    
+
+	    // Converting Raw Buffer to text 
+	    // data using tostring function. 
+	    // })
+
+
+	</script>
+
+</body>
+</html>

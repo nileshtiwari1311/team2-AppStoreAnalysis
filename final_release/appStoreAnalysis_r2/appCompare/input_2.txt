@@ -1,0 +1,143 @@
+[
+  {
+    id: 284882215,
+    appId: 'com.facebook.Facebook',
+    title: 'Facebook',
+    url: 'https://apps.apple.com/in/app/facebook/id284882215?uo=4',
+    description: 'Connect with friends, family and people who share the same interests as you. Communicate privately, watch your favourite content, buy and sell items or just spend time with your community. On Facebook, keeping up with the people who matter most is easy. Discover, enjoy and do more together. \n' +
+      '\n' +
+      'Stay up to date with your loved ones: \n' +
+      "• Share what's on your mind, announce major life events through posts and celebrate the everyday moments with stories. \n" +
+      '• Express yourself through your profile and posts, watch, react, interact and stay in touch with your friends throughout the day. \n' +
+      '\n' +
+      'Connect with people who share your interests with groups: \n' +
+      "• With tens of millions of groups, you'll find something for all your interests and discover more groups relevant to you. \n" +
+      '• Use the Groups tab as a hub to quickly access all your groups content. Find relevant groups based on your interests with the new discovery tool and recommendations. \n' +
+      '\n' +
+      'Become more involved with your community: \n' +
+      '• Discover events happening near you, businesses to support, local groups and activities to be part of. \n' +
+      '• Have a look at local recommendations from your friends, then coordinate with them and make plans to get together. \n' +
+      "• Raise funds for a cause that's important to you, mentor someone who wants help achieving their goals and, in the event of a local crisis, connect with other people to find or give supplies, food or shelter. \n" +
+      '\n' +
+      'Enjoy entertainment together with Watch: \n' +
+      '• Discover all kinds of content from original shows to creators to trending videos in topics such as beauty, sports and entertainment. \n' +
+      '• Join conversations, share with others, interact with viewers and creators and watch together like never before. \n' +
+      '\n' +
+      'Buy and sell with Marketplace: \n' +
+      "• Whether it's an everyday or one-of-a-kind item, you can discover everything from household items to your next car or apartment on Marketplace. \n" +
+      '• List your own item for sale and conveniently communicate with buyers and sellers through Messenger \n' +
+      '\n' +
+      'Read our Data Use Policy, Terms and other important info in the legal section of our App Store description. \n' +
+      '\n' +
+      "Continued use of GPS running in the background can dramatically decrease battery life. Facebook doesn't run GPS in the background unless you give us permission by turning on optional features that require this.",
+    icon: 'https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a0/7c/d7/a07cd704-237b-8196-f53b-33126acc30b3/source/512x512bb.jpg',
+    genres: [ 'Social Networking' ],
+    genreIds: [ '6005' ],
+    primaryGenre: 'Social Networking',
+    primaryGenreId: 6005,
+    contentRating: '12+',
+    languages: [
+      'AR', 'HR', 'CS', 'DA', 'NL',
+      'EN', 'FI', 'FR', 'DE', 'EL',
+      'HE', 'HI', 'HU', 'ID', 'IT',
+      'JA', 'KO', 'MS', 'NB', 'PL',
+      'PT', 'RO', 'RU', 'ZH', 'SK',
+      'ES', 'SV', 'TH', 'ZH', 'TR',
+      'VI'
+    ],
+    size: '432680960',
+    requiredOsVersion: '10.0',
+    released: '2019-02-05T08:00:00Z',
+    updated: '2020-04-30T16:42:50Z',
+    releaseNotes: 'We update the app regularly so we can make it better for you. Get the latest version for all of the available Facebook features. This version includes several bug fixes and performance improvements. Thanks for using Facebook!',
+    version: '268.0',
+    price: 0,
+    currency: 'INR',
+    free: true,
+    developerId: 284882218,
+    developer: 'Facebook, Inc.',
+    developerUrl: 'https://apps.apple.com/in/developer/facebook-inc/id284882218?uo=4',
+    developerWebsite: 'http://www.facebook.com/mobile',
+    score: 3.50936,
+    reviews: 84367,
+    currentVersionScore: 3.50936,
+    currentVersionReviews: 84367,
+    screenshots: [
+      'https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/b8/0b/2c/b80b2c07-9899-0e80-fd96-e168a4ea657f/pr_source.png/392x696bb.png',
+      'https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/6f/62/9c6f6288-3ea2-0693-a799-a3d918601fe0/pr_source.png/392x696bb.png',
+      'https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e2/b8/c4/e2b8c4bd-0c73-b3cf-693a-0b087b507322/pr_source.png/392x696bb.png',
+      'https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/6b/7e/23/6b7e23dd-f967-77a5-66c6-55e35c81619a/pr_source.png/392x696bb.png',
+      'https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/38/3e/b6383ea7-48b2-2a92-370f-6e1d3c5a18b1/pr_source.png/392x696bb.png'
+    ],
+    ipadScreenshots: [
+      'https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/ff/e2/a2ffe2cd-22f0-fdd9-0dbb-58a3d5bc1c23/mzl.ghlgunye.png/576x768bb.png',
+      'https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/90/9c/36/909c363a-a230-f747-1e6d-bda15a1f19c3/mzl.ouqckawq.png/552x414bb.png',
+      'https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/49/8e/3f/498e3fa7-19e9-93df-e5ba-8c549747a921/mzl.xbivmonc.png/576x768bb.png'
+    ],
+    appletvScreenshots: [],
+    supportedDevices: [
+      'iPadPro-iPadPro',
+      'iPad612-iPad612',
+      'iPhoneXS-iPhoneXS',
+      'iPad834-iPad834',
+      'iPhone8-iPhone8',
+      'iPad812-iPad812',
+      'iPadMini5Cellular-iPadMini5Cellular',
+      'iPad878-iPad878',
+      'iPhone7-iPhone7',
+      'iPad611-iPad611',
+      'iPadMini3Cellular-iPadMini3Cellular',
+      'iPadPro97-iPadPro97',
+      'iPadProFourthGen-iPadProFourthGen',
+      'iPadProCellular-iPadProCellular',
+      'iPadMiniRetinaCellular-iPadMiniRetinaCellular',
+      'iPad75-iPad75',
+      'iPadAir2-iPadAir2',
+      'iPhoneXSMax-iPhoneXSMax',
+      'iPhone6Plus-iPhone6Plus',
+      'iPhoneSESecondGen-iPhoneSESecondGen',
+      'iPad73-iPad73',
+      'iPodTouchSeventhGen-iPodTouchSeventhGen',
+      'iPadPro97Cellular-iPadPro97Cellular',
+      'iPadMini4Cellular-iPadMini4Cellular',
+      'iPhone6-iPhone6',
+      'iPad856-iPad856',
+      'iPhone11-iPhone11',
+      'iPodTouchSixthGen-iPodTouchSixthGen',
+      'iPhoneX-iPhoneX',
+      'iPhone6sPlus-iPhone6sPlus',
+      'iPhone11Pro-iPhone11Pro',
+      'iPadAir-iPadAir',
+      'iPadProSecondGenCellular-iPadProSecondGenCellular',
+      'iPhone5-iPhone5',
+      'iPadMini3-iPadMini3',
+      'iPadAirCellular-iPadAirCellular',
+      'iPadFourthGen-iPadFourthGen',
+      'Watch4-Watch4',
+      'iPadFourthGen4G-iPadFourthGen4G',
+      'iPhone8Plus-iPhone8Plus',
+      'iPhone11ProMax-iPhone11ProMax',
+      'iPadSeventhGen-iPadSeventhGen',
+      'iPhoneXR-iPhoneXR',
+      'iPadProFourthGenCellular-iPadProFourthGenCellular',
+      'iPadMini4-iPadMini4',
+      'iPadAir3-iPadAir3',
+      'iPhone7Plus-iPhone7Plus',
+      'iPadMini5-iPadMini5',
+      'iPhone6s-iPhone6s',
+      'iPadAir3Cellular-iPadAir3Cellular',
+      'iPadProSecondGen-iPadProSecondGen',
+      'iPadAir2Cellular-iPadAir2Cellular',
+      'iPhoneSE-iPhoneSE',
+      'iPad76-iPad76',
+      'iPhone5c-iPhone5c',
+      'iPadSeventhGenCellular-iPadSeventhGenCellular',
+      'iPad71-iPad71',
+      'iPadMiniRetina-iPadMiniRetina',
+      'iPhone5s-iPhone5s',
+      'iPad72-iPad72',
+      'iPad74-iPad74',
+      'Watch5-Watch5'
+    ]
+  }
+]
