@@ -1,4 +1,4 @@
-# Team_2_AppStoreAnalysis
+# AppStoreAnalysis
 Software Engineering Lab Tool
 This is a tool to analyze the behaviour of a particular app on multiple app stores, to show the top apps available within a category on a particular app store based on the metrics directly provided by the app store or the ones developed by us based on the metadata provided by the app store and to classify the recent reviews of apps into 4 categories: feature requests, bug reports, user experience and ratings . 
 Factors that are taken into account for doing it are number of downloads, rating, price, country, released date, last updated date, recent reviews and recent ratings. 
